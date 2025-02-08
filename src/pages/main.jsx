@@ -7,7 +7,7 @@ import Footer from './footer';
 
 const main = () => {
   return (
-    <div>
+    <div className='bg-gradient-to-r from-[#1F221B] to-[#1A2E2F]'>
       <section >
       <Header />
       </section>
